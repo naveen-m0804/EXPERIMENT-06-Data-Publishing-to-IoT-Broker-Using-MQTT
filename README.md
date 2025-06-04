@@ -1,9 +1,4 @@
-### NAME: Naveen M
-### REGISTER NUMBER: 212222110029
-### DEPARTMENT: CSE IOT
-### YEAR: 3rd Year
-
-# EXPERIMENT-06-Data-Publishing-to-IoT-Broker-Using-MQTT3
+# EXPERIMENT-05-Data-Publishing-to-IoT-Broker-Using-MQTT3
 
 ## Aim:
 To publish data to an IoT broker using the MQTT protocol.
